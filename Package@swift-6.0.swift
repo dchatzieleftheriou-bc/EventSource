@@ -6,10 +6,10 @@ import PackageDescription
 let package = Package(
     name: "EventSource",
     platforms: [
-        .iOS("15.0"),
+        .iOS("16.0"),
         .macOS("12.0"),
         .watchOS("8.0"),
-        .tvOS("15.0"),
+        .tvOS("16.0"),
         .visionOS("1.0"),
     ],
     products: [
